@@ -23,7 +23,9 @@ slides: example
 
 Abstract: Visual target navigation is very important for autonomous robots as it is closely related to high-level task. To find a special object in indoor environments, classical and learning-based approaches are fundamental components of navigation that they have been investigated thoroughly by researchers. However, due to the difficulty in the representation of complicated scenes and the learning of navigational policy, the problem is still the core challenge for previous methods in large unknown scenes. Hence, we propose a novel framework for visual target navigation based on the frontier semantic policy. In the proposed framework, the semantic map and the frontier map are built from current observation of the environment. Based on the features of the maps, the deep reinforcement learning is used to learn a navigational policy. The policy can be used to select a frontier from the map as long-term goal to explore the environment efficiently based on the object category. Experiments on Gibson and Habitat-Matterport 3D demonstrate that the proposed framework significantly outperforms existing modular map-based methods in terms of success rate and efficiency, and a demonstration is also provided to verify the applicability in applying to the real world transfer. The supplementary video can be accessed via the following link: \url{https://yubangguo.com/project/Frontier-Semantic-Exploration}.
 
-The total code of target navigation can be found in "https://github.com/ybgdgh/Visual-Target-Navigation".
+The total code of target navigation would be released soon.
+
+# can be found in "https://github.com/ybgdgh/Visual-Target-Navigation".
 
 
 {{< figure src="framework.jpg" title="The framework of our approach." lightbox="true" >}}
