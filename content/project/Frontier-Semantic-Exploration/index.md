@@ -25,7 +25,6 @@ Abstract: Visual target navigation is very important for autonomous robots as it
 
 The total code of target navigation would be released soon.
 
-# can be found in "https://github.com/ybgdgh/Visual-Target-Navigation".
 
 
 {{< figure src="framework.jpg" title="The framework of our approach." lightbox="true" >}}
