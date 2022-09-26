@@ -37,8 +37,4 @@ The total code of target navigation would be released soon.
 
 {{< video library="1" src="stair.mp4" controls="yes" >}}
 
-{{< video library="1" src="bigscene.mp4" controls="yes" >}}
-
-real world transfer:
-
-{{< video library="1" src="FSP.mp4" controls="yes" >}}
+{{< video library="1" src="ICRA23_0434_VI_i.mp4" controls="yes" >}}
