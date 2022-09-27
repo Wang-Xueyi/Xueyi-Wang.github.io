@@ -35,6 +35,6 @@ The total code of target navigation can be found in https://github.com/ybgdgh/Fr
 
 {{< figure src="system_3.jpg" title="Invalid Action Masking" lightbox="true" >}}
 
-{{< video library="1" src="stair.mp4" controls="yes" >}}
+<!-- {{< video library="1" src="stair.mp4" controls="yes" >}} -->
 
 {{< video library="1" src="ICRA23_0434_VI_i.mp4" controls="yes" >}}
